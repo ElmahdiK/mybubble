@@ -3,4 +3,4 @@
 </p>
 
 # mybubble
- Mybubble est un site web contenant quelques souvenirs d'enfance
+Site web contenant quelques souvenirs d'enfance
