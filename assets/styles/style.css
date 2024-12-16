@@ -1,132 +1,148 @@
 :root {
-    --colorWHITE: #fff;
-    --colorBLACK: #000;
-    --colorMAIN: #fafafa;
-    --colorGRAY: #ddd;
+  --colorWHITE: #fff;
+  --colorBLACK: #000;
+  --colorMAIN: #fafafa;
+  --colorGRAY: #ddd;
 }
 
 /* -- dark mode -- */
 
 @media (prefers-color-scheme: dark) {
-    body {
-        /* --colorWHITE: #111;
+  body {
+    /* --colorWHITE: #111;
         --colorBLACK: #aaa;
         --colorMAIN: #222;
         --colorGRAY: #000; */
-        --colorWHITE: #16212b;
-        --colorBLACK: #cecdcd;
-        --colorMAIN: #1b1c23;
-        --colorGRAY: #9fb9ce;
-    }
+    --colorWHITE: #16212b;
+    --colorBLACK: #cecdcd;
+    --colorMAIN: #1b1c23;
+    --colorGRAY: #9fb9ce;
+  }
 }
 
 /* -- all -- */
 
 * {
-    margin: 0px;
-    padding: 0px;
-    border: 0px;
-    border-collapse: collapse;
-    vertical-align: top;
-    /* box-sizing: border-box; */
-    /* user-select: none; */
-    /* -webkit-appearance: none; */
-    color: var(--colorBLACK);
-    font-weight: 300;
-    font-family: "Heebo", Arial, Helvetica, sans-serif;
-    text-align: justify; 
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+  border-collapse: collapse;
+  vertical-align: top;
+  /* box-sizing: border-box; */
+  /* user-select: none; */
+  /* -webkit-appearance: none; */
+  color: var(--colorBLACK);
+  font-weight: 300;
+  font-family: "Heebo", Arial, Helvetica, sans-serif;
+  text-align: justify;
 }
 
 *:focus {
-    outline: none;
+  outline: none;
 }
 
-html, body {
-    height: 100%;
-    overflow-x: hidden;
+html,
+body {
+  height: 100%;
+  overflow-x: hidden;
 }
 
 body {
-    background-color: #2e3975;
+  /* background-color: #2e3975; */
 }
 
 a {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 .hidden {
-    display: none !important;
+  display: none !important;
 }
 
-main{
-    display:flex;
-    flex-direction: column;
+main {
+  display: flex;
+  flex-direction: column;
 }
 
-article{
-    display:flex;
-    flex-direction: row;
-    justify-content: flex-start;
-    align-content: stretch;
-    flex-wrap: wrap;
-    box-sizing: border-box;
-    overflow-y: scroll;
+.skeleton {
+  min-height: 300px;
+  opacity: 0.7;
+  animation: skeleton-loading 1s linear infinite alternate;
 }
 
-article img:hover{
-    border:1px solid dodgerblue;
+@keyframes skeleton-loading {
+  0% {
+    background-color: hsl(200, 20%, 70%);
+  }
+  100% {
+    background-color: hsl(200, 20%, 95%);
+  }
 }
-article img{
-    border:1px solid #eee;
-    box-shadow: 0px 2px 4px #000;
-    width: calc((100/10)*1% - 20px);
-    margin: 10px;
-    transition: 0.1s;
-    box-sizing: border-box;
-    object-fit: cover;
-    cursor: pointer;
+
+article {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-content: stretch;
+  flex-wrap: wrap;
+  box-sizing: border-box;
+  overflow-y: scroll;
+}
+
+article img:hover {
+  /* border: 1px solid dodgerblue; */
+}
+article img {
+  /* border: 1px solid #eee; */
+  /* box-shadow: 0px 2px 4px #000; */
+  width: calc((100 / 10) * 1% - 20px);
+  margin: 10px;
+  /* transition: 0.1s; */
+  box-sizing: border-box;
+  object-fit: cover;
+  cursor: pointer;
 }
 
 .div-modal {
-    box-shadow: 4px 5px 10px #000;
-    background-color: #fff;
-    border:2px solid #fff;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%); 
-    width: 40%;
-    height: 400px;
-    text-transform: uppercase;
+  box-shadow: 4px 5px 10px #000;
+  background-color: #fff;
+  border: 2px solid #fff;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 40%;
+  height: 400px;
+  text-transform: uppercase;
 }
 .div-modal iframe {
-    width:100%;
-    height: 340px;
+  width: 100%;
+  height: 340px;
 }
 .div-modal #sp_title {
-    display: block;
-    padding: 20px;
-    text-align: center;
-    position: relative;
+  display: block;
+  padding: 20px;
+  text-align: center;
+  position: relative;
 }
 
-#bt-modal{
-    color: darkred;
-    background-color: transparent;
-    position: absolute;
-    bottom: 20px;
-    right: 0px;
-    font-size: 16px;
-    padding:0px 20px;
-    cursor: pointer;
+#bt-modal {
+  color: darkred;
+  background-color: transparent;
+  position: absolute;
+  bottom: 20px;
+  right: 0px;
+  font-size: 16px;
+  padding: 0px 20px;
+  cursor: pointer;
 }
 
 /* -- mobile --*/
 @media (max-width: 767.98px) {
-    main img{
-        width:calc(33% - 20px);
-    }
-    .div-modal {
-        width: 80%;
-    }
+  main img {
+    width: calc(33% - 20px);
+  }
+  .div-modal {
+    width: 80%;
+  }
 }

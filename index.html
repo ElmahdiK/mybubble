@@ -8,15 +8,17 @@
     <title>Souvenirs</title>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Heebo">
     <link rel="stylesheet" href="./assets/styles/style.css">
-    <script src="assets/scripts/main.js"></script>
     <link rel="icon"
         href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>😻</text></svg>">
 </head>
 
 <body>
+    <template id="template-img">
+        <img src="" class="skeleton" />
+    </template>
     <main>
         <article></article>
-        <div class="div-modal">
+        <div class="div-modal hidden">
             <iframe id="yt-video" src="https://www.youtube-nocookie.com/embed/CZtF882vp58" frameborder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowfullscreen></iframe>
@@ -26,6 +28,7 @@
             </div>
         </div>
     </main>
+    <script src="assets/scripts/main.js"></script>
 </body>
 
 </html>
