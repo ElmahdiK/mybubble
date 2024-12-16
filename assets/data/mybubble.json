@@ -3,6 +3,12 @@
         "type": "movie",
         "content": [
             {
+                "title": "astérix",
+                "img": "https://www.fariboles.fr/1343-extra_large_default/asterix-embleme.jpg",
+                "video": "xu0oDu2bDFw",
+                "date": 1967
+            },
+            {
                 "title": "pinocchio",
                 "img": "https://i.pinimg.com/originals/f7/28/ce/f728cefbfc7874f70b1280f2eb067902.jpg",
                 "video": "e5TQmn5134s",
@@ -71,7 +77,7 @@
             {
                 "title": "jumanji",
                 "img": "https://m.media-amazon.com/images/I/51mVHbu6FbL._AC_SY445_.jpg",
-                "video": "N6SfzbW7qhI",
+                "video": "0QJM5WctfPI",
                 "date": 1995
             },
             {
@@ -114,6 +120,12 @@
     {
         "type": "series",
         "content": [
+            {
+                "title": "naruto",
+                "img": "https://abo-manga.fr/17779-large_default/figurine-naruto-bijutsu-grand-format.jpg",
+                "video": "pK9s7Vr_9D0",
+                "date": 1999
+            },
             {
                 "title": "sonic the hedgehog",
                 "img": "https://fr.web.img4.acsta.net/pictures/15/02/17/10/16/381615.jpg",
@@ -169,7 +181,7 @@
             },
             {
                 "title": "oui oui",
-                "img": "https://fr.web.img6.acsta.net/medias/nmedia/18/69/46/56/18869692.jpg",
+                "img": "https://i.ytimg.com/vi/iMejnX2PU2g/maxresdefault.jpg",
                 "video": "L31wJMKZiPo"
             },
             {
@@ -194,8 +206,8 @@
             },
             {
                 "title": "dragon ball z",
-                "img": "https://i.pinimg.com/originals/fd/4f/57/fd4f57abc823b77bcab81ff62e581073.png",
-                "video": "yHcYr6sGhAI"
+                "img": "https://m.media-amazon.com/images/M/MV5BNGQxZWE1ZWEtMjJkMS00OGUwLWIzYWQtYTIxODdlYjdhYjM1XkEyXkFqcGc@._V1_.jpg",
+                "video": "qQmTdijhjD4"
             },
             {
                 "title": "dragon ball gt",
@@ -343,6 +355,12 @@
                 "title": "chicken run",
                 "img": "https://images-na.ssl-images-amazon.com/images/I/61Q7YHGRM6L._AC_SX466_.jpg",
                 "video": "LKOJAgbRK4g"
+            },
+            {
+                "title": "dragon ball budokai 3",
+                "img": "https://m.media-amazon.com/images/I/71QBu0YcCcL.jpg",
+                "video": "4_-eEf91hwo",
+                "date": 2004
             }
         ]
     },
