@@ -104,8 +104,8 @@ article img {
 }
 
 .div-modal {
-  box-shadow: 0px 0px 50px 50px #2196F3;
-  border: 3px solid darkblue;
+  box-shadow: 0px 0px 50px 5px #000;
+  border: 1px dotted #fff;
   background-color: #000;
   position: absolute;
   top: 50%;

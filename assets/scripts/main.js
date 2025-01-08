@@ -14,7 +14,6 @@ for (let i = 0; i < 50; i++) article.append(templateContent.content.cloneNode(tr
 window.onload = _ => {
     console.log(`page loaded`);
 
-
     loadData().then(d => {
         let _html = ``;
         for (let i = 0, j = d.length; i < j; i++) {

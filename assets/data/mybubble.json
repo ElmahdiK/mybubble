@@ -3,6 +3,12 @@
         "type": "movie",
         "content": [
             {
+                "title": "ashita no joe",
+                "img": "https://picfiles.alphacoders.com/459/thumb-459563.jpg",
+                "video": "QeSiB62WBTI",
+                "date": 1970
+            },
+            {
                 "title": "astérix",
                 "img": "https://www.fariboles.fr/1343-extra_large_default/asterix-embleme.jpg",
                 "video": "xu0oDu2bDFw",
@@ -77,7 +83,7 @@
             {
                 "title": "casper",
                 "img": "https://media.senscritique.com/media/000019864787/source_big/Casper_l_apprenti_fantome.jpg",
-                "video": "5WrDsDxHsS8",
+                "video": "ieaSpMC42gc",
                 "date": 1995
             },
             {
@@ -202,8 +208,8 @@
             },
             {
                 "title": "Tom-Tom et Nana",
-                "img": "https://i.ytimg.com/vi/I3j_K21CoKo/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEYgXyhlMA8=&rs=AOn4CLDHLHNdGxNsY4QlCDQHHKnI6KsX0Q",
-                "video": "xdXHDQxs-4Q"
+                "img": "https://static.animeguides.com/guides/tomtomnana/tomtom.jpg",
+                "video": "dGMx-GCtn9c"
             },
             {
                 "title": "les minijusticiers",
@@ -320,42 +326,42 @@
             {
                 "title": "tarzan",
                 "img": "https://www.coleka.com/media/item/201704/06/playstation-ps1-disney-s-tarzan.jpg",
-                "video": "7eem3GXvEkE"
+                "video": "popgL-rdDho"
             },
             {
                 "title": "gran turismo",
                 "img": "https://image.jeuxvideo.com/images-sm/ps/g/r/grtups0f.jpg",
-                "video": "7eem3GXvEkE"
+                "video": "SAUodvYJ_PY"
             },
             {
                 "title": "les cochons de guerre",
                 "img": "https://images-na.ssl-images-amazon.com/images/I/51lvGbDj8vL._AC_SX342_.jpg",
-                "video": "7eem3GXvEkE"
+                "video": "8zvtDOxpP8k"
             },
             {
                 "title": "grand theft auto 2",
                 "img": "https://www.mobygames.com/images/covers/l/22057-grand-theft-auto-2-playstation-front-cover.jpg",
-                "video": "7eem3GXvEkE"
+                "video": "9Z5O29rLRnw"
             },
             {
                 "title": "hercules",
                 "img": "https://i.ebayimg.com/images/g/MJgAAOxyxpxQ7E9k/s-l640.jpg",
-                "video": "7eem3GXvEkE"
+                "video": "a_rLDoHgdZw"
             },
             {
                 "title": "ronaldo v-football",
                 "img": "https://images-na.ssl-images-amazon.com/images/I/51BYVP21MNL._AC_SX466_.jpg",
-                "video": "7eem3GXvEkE"
+                "video": "0rZYMdoeFLY"
             },
             {
                 "title": "toy story 2",
                 "img": "https://www.gamecash.fr/thumbnail-600/psx-toy-story-2-plat-e137715.jpg",
-                "video": "7eem3GXvEkE"
+                "video": "D3VOkNtzHsw"
             },
             {
                 "title": "tekken 3",
                 "img": "https://images-na.ssl-images-amazon.com/images/I/61Xr894A3-L._SL1000_.jpg",
-                "video": "7eem3GXvEkE"
+                "video": "IsvtUxEFQaU"
             },
             {
                 "title": "chicken run",
