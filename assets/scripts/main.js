@@ -16,9 +16,7 @@ window.onload = _ => {
 
     loadData().then(d => {
         let _html = ``;
-        for (let i = 0, j = d.length; i < j; i++) {
-            for (let a = 0, b = d[i].content.length; a < b; a++) _html += content(d[i].content[a]);
-        }
+        for (let i = 0, j = d.length; i < j; i++) _html += content(d[i]);
         article.innerHTML = _html;
     });
 
@@ -26,8 +24,21 @@ window.onload = _ => {
         seeContent(null);
         closeModal();
     }
+
+    $$(`#nav-filter button`).forEach(_btn => {
+        _btn.onclick = _ => {
+            $$(`#nav-filter button`).forEach(_b => _b.classList.remove(`active`));
+            _btn.classList.add(`active`);
+
+            $$(`article img`).forEach(_img => {
+                if (_btn.innerText === `all`) _img.classList.remove(`hidden`);
+                else if (_img.dataset.type !== _btn.innerText) _img.classList.add(`hidden`);
+                else _img.classList.remove(`hidden`);
+            })
+        }
+    })
 }
-const content = _content => { return `<img src="${_content.img}" data-title="${_content.title}" data-video="${_content.video}" onclick='seeContent(this)'>`; };
+const content = _content => { return `<img src="${_content.img}" data-title="${_content.title}" data-type="${_content.type}" data-video="${_content.video}" onclick='seeContent(this)'>`; };
 
 const seeContent = _content => {
     $(`#sp_title`).innerText = _content?.dataset.title || '0';

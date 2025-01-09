@@ -48,7 +48,6 @@ body {
 }
 
 body {
-  /* background-color: #2e3975; */
 }
 
 a {
@@ -62,6 +61,31 @@ a {
 main {
   display: flex;
   flex-direction: column;
+}
+
+#nav-filter {
+  background-color: #2e3975;
+  box-shadow: 0px 2px 40px #222;
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+#nav-filter button.active,
+#nav-filter button:hover {
+  background-color: #fff;
+  color: dodgerblue;
+}
+#nav-filter button {
+  background-color: rgba(255, 255, 255, 0.1);
+  color: var(--colorWHITE);
+  font-size: 16px;
+  padding: 10px;
+  margin: 3px;
+  border-radius: 6px;
+  cursor: pointer;
 }
 
 .skeleton {
