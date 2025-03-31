@@ -4,8 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width" />
-    <title>Souvenirs</title>
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Heebo">
+    <title>MyBubble</title>
     <link rel="stylesheet" href="./assets/styles/style.css">
     <link rel="icon"
         href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>😻</text></svg>">
@@ -15,7 +14,8 @@
     <template id="template-img">
         <img src="" class="skeleton" />
     </template>
-    <main>
+
+    <header>
         <nav id="nav-filter">
             <button class="active">all</button>
             <button>movie</button>
@@ -24,6 +24,9 @@
             <button>music</button>
             <button>book</button>
         </nav>
+    </header>
+
+    <main>
         <article></article>
         <div class="div-modal hidden">
             <button id="bt-modal" title="close">[ X ]</button>
@@ -33,6 +36,7 @@
             <span id="sp_title">the lion king</span>
         </div>
     </main>
+
     <script src="assets/scripts/main.js"></script>
 </body>
 

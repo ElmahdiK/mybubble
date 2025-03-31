@@ -7,6 +7,13 @@
         "type": "serie"
     },
     {
+        "title": "Reporter Blues",
+        "img": "https://s2.dmcdn.net/v/7-Jst1QwK6b9pO7J9/x1080",
+        "video": "W8EORd8sDl4",
+        "date": 1991,
+        "type": "serie"
+    },
+    {
         "title": "scarface",
         "img": "https://m.media-amazon.com/images/M/MV5BNDUzYjY0NmUtMDM4OS00Y2Q5LWJiODYtNTk0ZTk0YjZhMTg1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
         "video": "XQvUxksgwYQ",
@@ -33,6 +40,13 @@
         "video": "e5TQmn5134s",
         "date": 1940,
         "type": "movie"
+    },
+    {
+        "title": "victor english",
+        "img": "https://s2.dmcdn.net/v/VhWj1S4uukkFWqZw/x480",
+        "video": "iCS7PhxVr_o",
+        "date": 1987,
+        "type": "serie"
     },
     {
         "title": "les aristochats",
@@ -141,7 +155,7 @@
     },
     {
         "title": "harry potter",
-        "img": "https://imgsrc.cineserie.com/2001/12/1500437.jpg?ver=1",
+        "img": "https://img.posterstore.com/zoom/wb0101-8harrypotter-thephilosophersstoneno150x70.jpg",
         "video": "ht5T2thYQFk",
         "date": 2001,
         "type": "movie"

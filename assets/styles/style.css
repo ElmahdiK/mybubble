@@ -5,49 +5,23 @@
   --colorGRAY: #ddd;
 }
 
-/* -- dark mode -- */
-
-@media (prefers-color-scheme: dark) {
-  body {
-    /* --colorWHITE: #111;
-        --colorBLACK: #aaa;
-        --colorMAIN: #222;
-        --colorGRAY: #000; */
-    --colorWHITE: #16212b;
-    --colorBLACK: #cecdcd;
-    --colorMAIN: #1b1c23;
-    --colorGRAY: #9fb9ce;
-  }
-}
-
-/* -- all -- */
-
 * {
   margin: 0px;
   padding: 0px;
   border: 0px;
   border-collapse: collapse;
   vertical-align: top;
-  /* box-sizing: border-box; */
-  /* user-select: none; */
-  /* -webkit-appearance: none; */
-  color: var(--colorBLACK);
-  font-weight: 300;
-  font-family: "Heebo", Arial, Helvetica, sans-serif;
-  text-align: justify;
-}
-
-*:focus {
-  outline: none;
 }
 
 html,
 body {
   height: 100%;
+  font-family: Arial, Helvetica, sans-serif;
   overflow-x: hidden;
 }
 
 body {
+  background-color: #3f51b5;
 }
 
 a {
@@ -62,9 +36,10 @@ main {
   display: flex;
   flex-direction: column;
 }
-
+header {
+}
 #nav-filter {
-  background-color: #2e3975;
+  background: linear-gradient(0deg, #1a237e, transparent);
   box-shadow: 0px 2px 40px #222;
   padding: 20px;
   display: flex;
@@ -104,24 +79,24 @@ main {
 }
 
 article {
-  display: flex;
-  flex-direction: row;
-  justify-content: flex-start;
-  align-content: stretch;
-  flex-wrap: wrap;
-  box-sizing: border-box;
-  overflow-y: scroll;
+  display: grid;
+  grid-template-columns: repeat(
+    auto-fit,
+    minmax(min(100%, calc(12.5% - 20px)), 1fr)
+  );
+  gap: 10px;
+  padding: 20px;
 }
 
 article img:hover {
-  /* border: 1px solid dodgerblue; */
+  background-color: #fff;
 }
 article img {
-  /* border: 1px solid #eee; */
-  /* box-shadow: 0px 2px 4px #000; */
-  width: calc((100 / 10) * 1% - 20px);
-  margin: 10px;
-  /* transition: 0.1s; */
+  background-color: #2196f3;
+  box-shadow: 0px 2px 4px #000;
+  width: 100%;
+  height: 300px;
+  padding: 3px;
   box-sizing: border-box;
   object-fit: cover;
   cursor: pointer;
@@ -166,12 +141,32 @@ article img {
   cursor: pointer;
 }
 
-/* -- mobile --*/
-@media (max-width: 767.98px) {
-  main img {
-    width: calc(33% - 20px);
-  }
+@media (width <= 1024px) {
   .div-modal {
     width: 80%;
+  }
+  article {
+    grid-template-columns: repeat(
+      auto-fit,
+      minmax(min(100%, calc(20% - 20px)), 1fr)
+    );
+  }
+}
+
+@media (width <= 768px) {
+  article {
+    grid-template-columns: repeat(
+      auto-fit,
+      minmax(min(100%, calc(33% - 20px)), 1fr)
+    );
+  }
+}
+
+@media (width <= 480px) {
+  article {
+    grid-template-columns: repeat(
+      auto-fit,
+      minmax(min(100%, calc(50% - 20px)), 1fr)
+    );
   }
 }
