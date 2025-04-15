@@ -523,5 +523,33 @@
         "video": "HJ5kaPLMSsI",
         "date": 2002,
         "type": "book"
+    },
+    {
+        "title": "Lire au CP",
+        "img": "https://servimg.eyrolles.com/static/media/3304/9782091573304_internet_h1400.jpg",
+        "video": "HJ5kaPLMSsI",
+        "date": 1991,
+        "type": "book"
+    },
+    {
+        "title": "J'aime lire",
+        "img": "https://pictures.abebooks.com/inventory/30776983760.jpg",
+        "video": "HJ5kaPLMSsI",
+        "date": 1997,
+        "type": "book"
+    },
+    {
+        "title": "Pomme d'api",
+        "img": "https://www.le-livre.fr/photos/R30/R300300494.jpg",
+        "video": "HJ5kaPLMSsI",
+        "date": 1992,
+        "type": "book"
+    },
+    {
+        "title": "Petit ours brun",
+        "img": "https://m.media-amazon.com/images/I/41Lxntcf4jL._AC_UF1000,1000_QL80_.jpg",
+        "video": "HJ5kaPLMSsI",
+        "date": 1979,
+        "type": "book"
     }
 ]
