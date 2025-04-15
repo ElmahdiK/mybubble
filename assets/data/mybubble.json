@@ -147,6 +147,13 @@
         "type": "serie"
     },
     {
+        "title": "Denver, le dernier dinosaure",
+        "img": "https://tele80.com/wp-content/uploads/2021/03/Denver_RECTO.jpg",
+        "video": "byb1w4iyUII",
+        "date": 1988,
+        "type": "serie"
+    },
+    {
         "title": "tarzan",
         "img": "https://www.themoviedb.org/t/p/w1280/a0Syo09bmNJgehjfeVL6meR9Mjh.jpg",
         "video": "J5Oz2fBXTDs",
@@ -179,6 +186,13 @@
         "img": "https://fr.web.img4.acsta.net/pictures/15/02/17/10/16/381615.jpg",
         "video": "CVO_PRahpTg",
         "date": 1993,
+        "type": "serie"
+    },
+    {
+        "title": "Tortues Ninja",
+        "img": "https://i.redd.it/i-know-it-sounds-weird-but-does-anyone-else-think-the-87-v0-hbwui0o3csle1.jpg?width=1400&format=pjpg&auto=webp&s=cac6bafcb5c16d0bc6d7074366d7d0e1a6d66f21",
+        "video": "MJ9rbA3S7IY",
+        "date": 1987,
         "type": "serie"
     },
     {
@@ -221,6 +235,13 @@
         "img": "https://www.cdiscount.com/pdt2/3/9/2/1/550x550/3322069870392/rw/dvd-jasper-le-pingouin.jpg",
         "video": "d1avYgNK7ks",
         "date": 1994,
+        "type": "serie"
+    },
+    {
+        "title": "le bus magique",
+        "img": "https://pixgoodies.com/wp-content/uploads/2024/04/visuel-t-shirt-le-bus-magique-dessin-anime-prix-pix-goodies-pixgoodies.jpg",
+        "video": "kUkY6NquYuA",
+        "date": 1997,
         "type": "serie"
     },
     {
