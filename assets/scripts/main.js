@@ -11,7 +11,7 @@ const article = $(`article`);
 const btnCloseModal = $(`#bt-modal`);
 const btnsNavigation = $$(`#nav-filter button`);
 const templateContent = $(`#template-img`);
-for (let i = 0; i < 50; i++) article.append(templateContent.content.cloneNode(true))
+for (let i = 0; i < 50; i++) article.append(templateContent.content.cloneNode(true));
 
 window.onload = _ => {
     loadPictures();
