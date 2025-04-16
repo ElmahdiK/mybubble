@@ -1,12 +1,11 @@
 <p align="center">
 <img src="./assets/images/screenshot.png" />
 </p>
-# 📼 MyBubble — 90's Pop Culture Memories
+
+### 📼 MyBubble — 90's Pop Culture Memories !
 
 **MyBubble** est une application web interactive qui répertorie mes souvenirs personnels de la pop culture des années 90.  
 Jeux vidéo, dessins animés, films, jouets, pubs cultes… un vrai plongeon dans l’époque des cassettes VHS, des tamagotchis et des débuts d’internet.
-
-> _"Welcome to a journey through my memories of the '90s."_
 
 ---
 
@@ -82,14 +81,6 @@ C’est une galerie visuelle, interactive et nostalgique.
   }
 ]
 ```
-
----
-
-## 💡 À venir
-
-- 🔍 Fonction de recherche par mots-clés  
-- 🌐 Hébergement en ligne (Netlify / GitHub Pages)  
-- 📱 Optimisation mobile  
 
 ---
 
