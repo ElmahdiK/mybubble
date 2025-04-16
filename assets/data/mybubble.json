@@ -49,6 +49,13 @@
         "type": "serie"
     },
     {
+        "title": "franklin",
+        "img": "https://m.media-amazon.com/images/S/pv-target-images/ff1f37acfbb4b585b02370871c550d46efcb325fd77ff66a343a0ee486491a3b.jpg",
+        "video": "XdqJa5z0ja4",
+        "date": 1999,
+        "type": "serie"
+    },
+    {
         "title": "les aristochats",
         "img": "https://i.pinimg.com/originals/9c/f4/eb/9cf4ebfc9891b71252527052f92b7b86.jpg",
         "video": "1Vy4Q_XLOCM",
@@ -511,17 +518,38 @@
         "type": "game"
     },
     {
-        "title": "michael jackson",
+        "title": "michael jackson - thriller",
         "img": "https://images-na.ssl-images-amazon.com/images/I/6148jblbNqL._SL1500_.jpg",
         "video": "dZEQ4CfgWzE",
         "date": 1983,
         "type": "music"
     },
     {
-        "title": "aicha",
+        "title": "khaled - aicha",
         "img": "https://static.fnac-static.com/multimedia/Images/FR/NR/f9/6a/23/2321145/1545-1/tsp20140121163014/Sahra.jpg",
         "video": "XuxFwZhU_J8",
         "date": 1996,
+        "type": "music"
+    },
+    {
+        "title": "Gloria Gaynor - I will survive",
+        "img": "https://static.ostadium.com/galleries/fifa-world-cup-france-1998-illus.jpg",
+        "video": "GMs3LaxYK4c",
+        "date": 1978,
+        "type": "music"
+    },
+    {
+        "title": "alane - wes",
+        "img": "https://fr.shopping.rakuten.com/photo/622899_L.jpg",
+        "video": "3gl5OEZ8j_o",
+        "date": 1997,
+        "type": "music"
+    },
+    {
+        "title": "claude françois - comme d'habitude",
+        "img": "https://images.lesindesradios.fr/fit-in/1100x2000/filters:format(webp)/medias/N35FMbJdGz/image/329597136_2342468932595621_2253787831721342096_n1678187685155.jpg",
+        "video": "nnbqMKs4QN0",
+        "date": 1967,
         "type": "music"
     },
     {
