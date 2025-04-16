@@ -53,7 +53,7 @@ C’est une galerie visuelle, interactive et nostalgique.
 
 1. Clone le dépôt :
    ```bash
-   git clone https://github.com/tonpseudo/mybubble.git
+   git clone https://github.com/ElmahdiK/mybubble.git
    cd mybubble
    ```
 
