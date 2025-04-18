@@ -14,6 +14,13 @@
         "type": "serie"
     },
     {
+        "title": "Popeye",
+        "img": "https://images.justwatch.com/poster/273060499/s718/popeye-the-sailor.jpg",
+        "video": "i8O0PwGSoO0",
+        "date": 1919,
+        "type": "serie"
+    },
+    {
         "title": "scarface",
         "img": "https://m.media-amazon.com/images/M/MV5BNDUzYjY0NmUtMDM4OS00Y2Q5LWJiODYtNTk0ZTk0YjZhMTg1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
         "video": "XQvUxksgwYQ",
@@ -452,6 +459,13 @@
         "img": "https://sm.ign.com/ign_fr/screenshot/default/rayman-2-25-ans-anniversaire_kxpw.jpg",
         "video": "VQRnxYDAyxo",
         "date": 1999,
+        "type": "game"
+    },
+    {
+        "title": "adibou 2",
+        "img": "https://www.abandonware-france.org/images_abandonware/jeux/82716-snap024.png",
+        "video": "LiaE0pILS-8",
+        "date": 1996,
         "type": "game"
     },
     {
