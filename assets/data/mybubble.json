@@ -189,6 +189,34 @@
         "type": "movie"
     },
     {
+        "title": "tom et jerry",
+        "img": "https://media.senscritique.com/media/000017354738/0/tom_et_jerry.jpg",
+        "video": "E0_rVctVdbc",
+        "date": 1940,
+        "type": "serie"
+    },
+    {
+        "title": "Looney Tunes",
+        "img": "https://monlove.com/wp/wp-content/uploads/bb-plugin/cache/Lonney-Tunes-square-f8e1aac571b139cd115e255a38708bff-053hua21f8bs.png",
+        "video": "AcOBvP0LcSo",
+        "date": 1929,
+        "type": "serie"
+    },
+    {
+        "title": "petite lulu",
+        "img": "https://wiki.lepaysdumanga.fr/_media/les_animes/l/la_petite_lulu_et_ses_amis.jpg",
+        "video": "OmCu9cCNtOs",
+        "date": 1935,
+        "type": "serie"
+    },
+    {
+        "title": "arthur",
+        "img": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F02%2Fpbs-arthur-series-finale-explains-characters-futures-001.jpg?q=75&w=800&cbr=1&fit=max",
+        "video": "eJHFVf5rfzE",
+        "date": 1996,
+        "type": "serie"
+    },
+    {
         "title": "naruto",
         "img": "https://abo-manga.fr/17779-large_default/figurine-naruto-bijutsu-grand-format.jpg",
         "video": "pK9s7Vr_9D0",
