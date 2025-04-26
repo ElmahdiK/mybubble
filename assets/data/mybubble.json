@@ -357,6 +357,41 @@
         "type": "serie"
     },
     {
+        "title": "les super nanas",
+        "img": "https://thumb.canalplus.pro/http/unsafe/1440x810/filters:quality(80)/media.prod.hawc.canal.aws.io-cplus.net/WBD_LUJH_FR_STD169_zxx.jpg",
+        "video": "_LLeaRMW_os",
+        "date": 1998,
+        "type": "serie"
+    },
+    {
+        "title": "Batman, la série animée",
+        "img": "https://m.media-amazon.com/images/M/MV5BYjgwZWUzMzUtYTFkNi00MzM0LWFkMWUtMDViMjMxNGIxNDUxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "video": "rrmUk2YUm14",
+        "date": 1992,
+        "type": "serie"
+    },
+    {
+        "title": "tabaluga",
+        "img": "https://fr.web.img2.acsta.net/medias/nmedia/18/69/54/13/19066937.jpg",
+        "video": "os__ylCITS8",
+        "date": 1994,
+        "type": "serie"
+    },
+    {
+        "title": "les histoires du père castor",
+        "img": "https://www.rsdoublage.com/oeuvres/dessins_animes/les_histoires_du_pere_castor.jpg",
+        "video": "nWdUojwhJVo",
+        "date": 1993,
+        "type": "serie"
+    },
+    {
+        "title": "Teddy & Annie",
+        "img": "https://fr.shopping.rakuten.com/photo/847745568.jpg",
+        "video": "SA1ZrP1P_fw",
+        "date": 1995,
+        "type": "serie"
+    },
+    {
         "title": "jeanne et serge",
         "img": "https://www.themoviedb.org/t/p/w260_and_h390_bestv2/OjJLEGUiQOHEFovbIVi2Rwx6ei.jpg",
         "video": "jwfSO0Nbrnk",
@@ -508,6 +543,13 @@
         "img": "https://m.media-amazon.com/images/I/51WyY2fPwIL.jpg",
         "video": "sp5yXNqN--A",
         "date": 1998,
+        "type": "game"
+    },
+    {
+        "title": "dragon ball final bout",
+        "img": "https://static.fnac-static.com/multimedia/Images/FR/NR/23/dd/20/2153763/1540-1/tsp20250116152818/Dragon-Ball-Final-Bout.jpg",
+        "video": "L96o77rmRF4",
+        "date": 1997,
         "type": "game"
     },
     {
