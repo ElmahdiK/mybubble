@@ -21,6 +21,20 @@
         "type": "serie"
     },
     {
+        "title": "Inspecteur Gadget",
+        "img": "https://www.disneyphile.fr/wp-content/uploads/2019/10/inspecteur-gadget.jpg",
+        "video": "yFoKXGN94wY",
+        "date": 1983,
+        "type": "serie"
+    },
+    {
+        "title": "the mask",
+        "img": "https://fr.web.img6.acsta.net/medias/nmedia/18/64/88/83/19255620.jpg",
+        "video": "Q_9oTVGjynU",
+        "date": 1994,
+        "type": "movie"
+    },
+    {
         "title": "scarface",
         "img": "https://m.media-amazon.com/images/M/MV5BNDUzYjY0NmUtMDM4OS00Y2Q5LWJiODYtNTk0ZTk0YjZhMTg1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
         "video": "XQvUxksgwYQ",
@@ -207,6 +221,13 @@
         "img": "https://monlove.com/wp/wp-content/uploads/bb-plugin/cache/Lonney-Tunes-square-f8e1aac571b139cd115e255a38708bff-053hua21f8bs.png",
         "video": "AcOBvP0LcSo",
         "date": 1929,
+        "type": "serie"
+    },
+    {
+        "title": "dr slump",
+        "img": "https://katsuuu.com/wp-content/uploads/2018/01/dr-slump-5-bonnes-raisons-my-geek-actu-6.jpg?w=640",
+        "video": "WEhgVRRMbQk",
+        "date": 1981,
         "type": "serie"
     },
     {
@@ -427,6 +448,20 @@
         "type": "serie"
     },
     {
+        "title": "Chip 'n' Dale: Rescue Rangers",
+        "img": "https://m.media-amazon.com/images/M/MV5BM2MwZGY5ZjctNzBjZS00ZDc0LTg4NjktNjA3YzRiNzJiNDYyXkEyXkFqcGc@._V1_.jpg",
+        "video": "Cj2TvIxCakA",
+        "date": 1990,
+        "type": "game"
+    },
+    {
+        "title": "Super Mario Bros",
+        "img": "https://m.media-amazon.com/images/I/61eDu2rA-tL.jpg",
+        "video": "cWOkHQXw0JQ",
+        "date": 1985,
+        "type": "game"
+    },
+    {
         "title": "sonic",
         "img": "https://retroarchives.fr/wp-content/uploads/2017/08/boite-1.jpg",
         "video": "gYlujZ07YPQ",
@@ -522,6 +557,27 @@
         "img": " https://www.argusjeux.fr/medias/donkey-kong-land-e34223.jpg",
         "video": "LKOJAgbRK4g",
         "date": 1995,
+        "type": "game"
+    },
+    {
+        "title": "mon micro me rend service",
+        "img": " https://www.delcampe.net/static/img_large/auction/001/630/853/858_001.jpg",
+        "video": "RC81PoNnCFo",
+        "date": 1998,
+        "type": "game"
+    },
+    {
+        "title": "caesar 3",
+        "img": " https://fr.shopping.rakuten.com/photo/878773817.jpg",
+        "video": "g-yYmdr8vxg",
+        "date": 1998,
+        "type": "game"
+    },
+    {
+        "title": "il était une fois la vie",
+        "img": " https://img.leboncoin.fr/api/v1/lbcpb1/images/53/1a/35/531a35a4952bf466ffb8799c989657c29c0e6bd4.jpg?rule=ad-large",
+        "video": "WfgeSdnqelY",
+        "date": 2000,
         "type": "game"
     },
     {
