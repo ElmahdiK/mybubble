@@ -76,6 +76,22 @@ header a {
   display: inline-block;
   text-decoration: none;
 }
+#bt-randomMemory {
+  background-color: #5d4bb5;
+  color: #fff;
+  border:1px solid #fff;
+  font-size: 12px;
+  padding: 10px;
+  margin-top: 30px;
+  border-radius: 6px;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+#bt-randomMemory:hover {
+  background-color: #fff;
+  color: dodgerblue;
+}
+
 #nav-filter {
   padding: 20px;
   display: flex;
