@@ -91,6 +91,20 @@
         "type": "serie"
     },
     {
+        "title": "sailor moon",
+        "img": "https://fr.web.img6.acsta.net/img/55/eb/55eb0313cd9ed9dbef65999281a399a8.jpg",
+        "video": "EFSt0B5SoBw",
+        "date": 1992,
+        "type": "serie"
+    },
+    {
+        "title": "x-or",
+        "img": "https://m.media-amazon.com/images/I/71Dd6KIONjL._AC_UF1000,1000_QL80_.jpg",
+        "video": "5trlBo_IQJ0",
+        "date": 1982,
+        "type": "serie"
+    },
+    {
         "title": "les aristochats",
         "img": "https://i.pinimg.com/originals/9c/f4/eb/9cf4ebfc9891b71252527052f92b7b86.jpg",
         "video": "1Vy4Q_XLOCM",
@@ -119,10 +133,24 @@
         "type": "movie"
     },
     {
+        "title": "star wars",
+        "img": "https://m.media-amazon.com/images/M/MV5BOGUwMDk0Y2MtNjBlNi00NmRiLTk2MWYtMGMyMDlhYmI4ZDBjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "video": "41ak2jr55fE",
+        "date": 1977,
+        "type": "movie"
+    },
+    {
         "title": "tmnt",
         "img": "https://i.pinimg.com/736x/13/16/80/131680c313b9ea98e0ef4e4b28825fa2--ninja-turtles-movie-teenage-mutant-ninja-turtles.jpg",
         "video": "2vZm3QHJlO0",
         "date": 1990,
+        "type": "movie"
+    },
+    {
+        "title": "shrek",
+        "img": "https://fr.web.img2.acsta.net/medias/nmedia/00/00/00/66/69199338_af.jpg",
+        "video": "W6FNY5TpJ24",
+        "date": 2001,
         "type": "movie"
     },
     {
@@ -199,6 +227,13 @@
         "title": "tarzan",
         "img": "https://www.themoviedb.org/t/p/w1280/a0Syo09bmNJgehjfeVL6meR9Mjh.jpg",
         "video": "J5Oz2fBXTDs",
+        "date": 1999,
+        "type": "movie"
+    },
+    {
+        "title": "pokémon le pouvoir est en toi",
+        "img": "https://image.tmdb.org/t/p/original/6u65C8aG4krAVyHsTjAMF7ucTDH.jpg",
+        "video": "613f11l495Q",
         "date": 1999,
         "type": "movie"
     },
@@ -282,7 +317,7 @@
     {
         "title": "sonic the hedgehog",
         "img": "https://fr.web.img4.acsta.net/pictures/15/02/17/10/16/381615.jpg",
-        "video": "CVO_PRahpTg",
+        "video": "RBkui60uIKg",
         "date": 1993,
         "type": "serie"
     },
@@ -476,6 +511,13 @@
         "type": "serie"
     },
     {
+        "title": "Ninja Gaiden",
+        "img": "https://upload.wikimedia.org/wikipedia/en/9/9b/Ninja_Gaiden_%28NES%29.jpg",
+        "video": "y4C0GdBKPyw",
+        "date": 1988,
+        "type": "game"
+    },
+    {
         "title": "Chip 'n' Dale: Rescue Rangers",
         "img": "https://m.media-amazon.com/images/M/MV5BM2MwZGY5ZjctNzBjZS00ZDc0LTg4NjktNjA3YzRiNzJiNDYyXkEyXkFqcGc@._V1_.jpg",
         "video": "Cj2TvIxCakA",
@@ -534,7 +576,7 @@
     {
         "title": "streets of rage",
         "img": "https://gamesrevisiteddotcom.files.wordpress.com/2017/01/streetsofrage.jpg",
-        "video": "rJXrt3FCeOY",
+        "video": "U21f9YFB0QQ",
         "date": 1991,
         "type": "game"
     },
