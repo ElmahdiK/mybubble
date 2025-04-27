@@ -60,7 +60,7 @@ data-date="${infosContent.date}"
 onclick='setModalContent(this);openModal();'>`;
 
 const setModalContent = _content => {
-    $(`#sp_title`).innerText = (_content?.dataset.date + ". " + _content?.dataset.title) || '0';
+    $(`#sp_title`).innerText = (_content?.dataset.date + " . " + _content?.dataset.title) || '0';
     $(`#yt-video`).src = `https://www.youtube.com/embed/${_content?.dataset.video || ''}?autoplay=1`;
 }
 
