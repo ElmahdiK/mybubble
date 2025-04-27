@@ -189,6 +189,20 @@
         "type": "movie"
     },
     {
+        "title": "hercules",
+        "img": "https://karoo.me/site/assets/files/18527/hercule.jpg",
+        "video": "54XAo-nwEUc",
+        "date": 1997,
+        "type": "movie"
+    },
+    {
+        "title": "le bossu de notre dame",
+        "img": "https://static.wikia.nocookie.net/beta-vhs/images/a/a5/124_1.jpg/revision/latest?cb=20180328063836&path-prefix=fr",
+        "video": "bt0-BHdV-Ms",
+        "date": 1996,
+        "type": "movie"
+    },
+    {
         "title": "jumanji",
         "img": "https://m.media-amazon.com/images/I/51mVHbu6FbL._AC_SY445_.jpg",
         "video": "0QJM5WctfPI",
