@@ -35,13 +35,13 @@ window.onload = _ => {
         }
     })
 }
+
 const openRandomModal = _ => {
     const randomIndex = Math.floor(Math.random() * $$(`article img`).length);
     const randomImg = $$(`article img`)[randomIndex];
     setModalContent(randomImg);
     openModal();
 }
-
 
 const loadPictures = _ => {
     loadData().then(d => {
