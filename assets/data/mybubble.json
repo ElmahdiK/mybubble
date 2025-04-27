@@ -28,6 +28,13 @@
         "type": "serie"
     },
     {
+        "title": "pocahontas",
+        "img": "https://i.ebayimg.com/images/g/GFIAAOSw-W5UsX1u/s-l1200.jpg",
+        "video": "OAhCfI5hLjU",
+        "date": 1995,
+        "type": "movie"
+    },
+    {
         "title": "the mask",
         "img": "https://fr.web.img6.acsta.net/medias/nmedia/18/64/88/83/19255620.jpg",
         "video": "Q_9oTVGjynU",
@@ -707,10 +714,24 @@
         "type": "game"
     },
     {
+        "title": "dorothée - allo allo, monsieur l'ordinateur",
+        "img": "https://m.media-amazon.com/images/I/71tNznzJnjL._UF1000,1000_QL80_.jpg",
+        "video": "lNI9falAtqY",
+        "date": 1985,
+        "type": "music"
+    },
+    {
         "title": "michael jackson - thriller",
         "img": "https://images-na.ssl-images-amazon.com/images/I/6148jblbNqL._SL1500_.jpg",
         "video": "dZEQ4CfgWzE",
         "date": 1983,
+        "type": "music"
+    },
+    {
+        "title": "Los Del Rio - Macarena",
+        "img": "https://i.scdn.co/image/ab67616d00001e0245d14c0fbb21667e3d5fecb9",
+        "video": "Uv5zKd1rqcM",
+        "date": 1993,
         "type": "music"
     },
     {
