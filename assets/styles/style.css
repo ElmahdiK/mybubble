@@ -77,7 +77,7 @@ header a {
   text-decoration: none;
 }
 #bt-randomMemory {
-  background-color: #5d4bb5;
+  background-color: #1a237e;
   color: #fff;
   border:1px solid #fff;
   font-size: 12px;
@@ -89,7 +89,7 @@ header a {
 }
 #bt-randomMemory:hover {
   background-color: #fff;
-  color: dodgerblue;
+  color: #1a237e;
 }
 
 #nav-filter {
