@@ -160,7 +160,7 @@ article img {
   height: 300px;
   padding: 2px;
   box-sizing: border-box;
-  object-fit: cover;
+  object-fit: contain;
   cursor: pointer;
   /* border-radius: 6px; */
   transition: 0.2s;
