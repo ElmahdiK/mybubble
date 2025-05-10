@@ -7,10 +7,24 @@
         "type": "serie"
     },
     {
+        "title": "lucky luke",
+        "img": "https://image.jeuxvideo.com/images/ps/l/u/lulups0f.jpg",
+        "video": "bIIjecZt41E",
+        "date": 1997,
+        "type": "game"
+    },
+    {
         "title": "Reporter Blues",
         "img": "https://s2.dmcdn.net/v/7-Jst1QwK6b9pO7J9/x1080",
         "video": "W8EORd8sDl4",
         "date": 1991,
+        "type": "serie"
+    },
+    {
+        "title": "Digimon",
+        "img": "https://m.media-amazon.com/images/S/pv-target-images/d21d74fc2877fa737a37cdb4de964561eabb30ff7964721d75c6890234ddd20d.jpg",
+        "video": "IA2_HZWU07o",
+        "date": 1999,
         "type": "serie"
     },
     {
