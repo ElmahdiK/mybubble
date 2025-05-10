@@ -5,7 +5,7 @@
 const $ = document.querySelector.bind(document);
 const $$ = document.querySelectorAll.bind(document);
 
-const PATH_DATA = `./assets/data/mybubble.json`;
+const PATH_DATA = `./assets/data/souvenirs.json`;
 
 const article = $(`article`);
 const btnCloseModal = $(`#bt-modal`);

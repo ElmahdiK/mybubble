@@ -2,9 +2,9 @@
 <img src="./assets/images/screenshot.png" />
 </p>
 
-### 📼 MyBubble — 90's Pop Culture Memories !
+### 📼 Souvenirs — 90's Pop Culture Memories !
 
-**MyBubble** est une application web interactive qui répertorie mes souvenirs personnels de la pop culture des années 90.  
+**Souvenirs** est une application web interactive qui répertorie mes souvenirs personnels de la pop culture des années 90.  
 Jeux vidéo, dessins animés, films, jouets, pubs cultes… un vrai plongeon dans l’époque des cassettes VHS, des tamagotchis et des débuts d’internet.
 
 ---
@@ -40,7 +40,7 @@ C’est une galerie visuelle, interactive et nostalgique.
 ```
 /assets
   /data
-    mybubble.json         ← Fichier contenant les souvenirs
+    souvenirs.json         ← Fichier contenant les souvenirs
   /img                    ← Images des souvenirs
 /index.html               ← Page principale
 /app.js                   ← Script JS principal
@@ -53,8 +53,8 @@ C’est une galerie visuelle, interactive et nostalgique.
 
 1. Clone le dépôt :
    ```bash
-   git clone https://github.com/ElmahdiK/mybubble.git
-   cd mybubble
+   git clone https://github.com/ElmahdiK/souvenirs.git
+   cd souvenirs
    ```
 
 2. Ouvre `index.html` dans ton navigateur :
