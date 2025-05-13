@@ -52,12 +52,15 @@ const loadPictures = _ => {
 }
 
 const picture = infosContent => `
-<img src="${infosContent.img}" 
+<div>
+<img class="img_back" src="${infosContent.img}" />
+<img class="img_front"  src="${infosContent.img}" 
 data-title="${infosContent.title}" 
 data-type="${infosContent.type}" 
 data-video="${infosContent.video}" 
 data-date="${infosContent.date}" 
-onclick='setModalContent(this);openModal();'>`;
+onclick='setModalContent(this);openModal();'>
+</div>`;
 
 const setModalContent = _content => {
     $(`#sp_title`).innerText = (_content?.dataset.date + " . " + _content?.dataset.title) || '0';
