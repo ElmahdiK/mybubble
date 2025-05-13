@@ -1,10 +1,31 @@
 [
     {
+        "title": "jackie chan dans le Bronx",
+        "img": "https://www.dvdfr.com/images/dvd/covers/200x280/180a8a12ed2905a55d62dde02a2adbab/60139/old-jackie_chan_bronx_bis.0.jpg",
+        "video": "m8hi5Sjv61k",
+        "date": 1995,
+        "type": "movie"
+    },
+    {
+        "title": "robocop",
+        "img": "https://m.media-amazon.com/images/M/MV5BZWM1YzRhODktZDE1MC00NzBlLTk0NGMtOGNhZDQyMmJiZGFiXkEyXkFqcGc@._V1_.jpg",
+        "video": "0lAZsw7sNNU",
+        "date": 1987,
+        "type": "movie"
+    },
+    {
         "title": "ashita no joe",
         "img": "https://picfiles.alphacoders.com/459/thumb-459563.jpg",
         "video": "QeSiB62WBTI",
         "date": 1970,
         "type": "serie"
+    },
+    {
+        "title": "BLOODSPORT",
+        "img": "https://blob.cede.ch/catalog/18245000/18245765_1_92.jpg",
+        "video": "GUABDC1B1_s",
+        "date": 1988,
+        "type": "movie"
     },
     {
         "title": "power rangers",

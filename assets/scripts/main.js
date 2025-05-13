@@ -67,7 +67,8 @@ const setModalContent = _content => {
 const loadData = async _ => {
     const response = await fetch(PATH_DATA);
     const data = await response.json();
-    return data;
+    return data.sort((a, b) => a.date - b.date);
+    // return data;
 }
 
 const closeModal = () => {
