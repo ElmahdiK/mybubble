@@ -105,6 +105,20 @@
         "type": "movie"
     },
     {
+        "title": "kangoo junior",
+        "img": "https://m.media-amazon.com/images/S/pv-target-images/ffdfc781d09cbc5f1dacc6e41aee694e04b293efff8b716e03e90e5eda7aa6e7.jpg",
+        "video": "feYsKE18Hgo",
+        "date": 2003,
+        "type": "serie"
+    },
+    {
+        "title": "pingu",
+        "img": "https://static.actu.fr/uploads/2022/08/pingu-960x640.jpg",
+        "video": "2aAbSrIuZBo",
+        "date": 1990,
+        "type": "serie"
+    },
+    {
         "title": "monsieur madame",
         "img": "https://i.pinimg.com/736x/f2/75/e9/f275e935611b55841b955b527bb24273.jpg",
         "video": "TKGxP-Fu_K0",
