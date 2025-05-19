@@ -105,11 +105,46 @@
         "type": "movie"
     },
     {
+        "title": "monsieur madame",
+        "img": "https://i.pinimg.com/736x/f2/75/e9/f275e935611b55841b955b527bb24273.jpg",
+        "video": "TKGxP-Fu_K0",
+        "date": 1971,
+        "type": "book"
+    },
+    {
+        "title": "marsupilami",
+        "img": "https://bdi.dlpdomain.com/album/9782800138626/couv/M533x666/de-champignac-au-marsupilami.jpg",
+        "video": "derRvTzndrI",
+        "date": 1952,
+        "type": "book"
+    },
+    {
         "title": "astérix",
-        "img": "https://www.fariboles.fr/1343-extra_large_default/asterix-embleme.jpg",
+        "img": "https://m.media-amazon.com/images/I/81q918oqZxL.jpg",
         "video": "xu0oDu2bDFw",
         "date": 1967,
-        "type": "movie"
+        "type": "book"
+    },
+    {
+        "title": "Les Aventures de Tintin",
+        "img": "https://www.herodote.net/_images/Tintin_au_pays_des_soviets.png",
+        "video": "dVpP8rTcRYM",
+        "date": 1929,
+        "type": "book"
+    },
+    {
+        "title": "lucky luke",
+        "img": "https://m.media-amazon.com/images/I/61omm1qGbhL._AC_UF1000,1000_QL80_.jpg",
+        "video": "vWRUohM_3oE",
+        "date": 1946,
+        "type": "book"
+    },
+    {
+        "title": "cédric",
+        "img": "https://bdi.dlpdomain.com/album/9782800116365-couv-M700x1200.jpg",
+        "video": "PryWqqJZTkE",
+        "date": 1989,
+        "type": "book"
     },
     {
         "title": "men in black",
