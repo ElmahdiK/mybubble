@@ -420,8 +420,36 @@
         "type": "serie"
     },
     {
+        "title": "foot 2 rue",
+        "img": "https://www.serieously.com/app/uploads/2021/03/foot-2-rue-1.jpg",
+        "video": "CiBcHgLX10k",
+        "date": 2005,
+        "type": "serie"
+    },
+    {
+        "title": "oggy et les cafards",
+        "img": "https://cdn.cultura.com/cdn-cgi/image/width=830/media/pim/TITELIVE/52_9782205064346_1_75.jpg",
+        "video": "ybI6UecpU8w",
+        "date": 1998,
+        "type": "serie"
+    },
+    {
+        "title": "marcelino pan y vino",
+        "img": "https://www.dvdfr.com/images/dvd/covers/200x280/a93af3162bea2337f1a8a9bb996b4467/16652/old-marcelino_bienvenue_marcelino.0.jpg",
+        "video": "E_ojzMQGZik",
+        "date": 2001,
+        "type": "serie"
+    },
+    {
+        "title": "poil de carotte",
+        "img": "https://m.media-amazon.com/images/S/pv-target-images/c0e222c044ba2b6c978a3e03f1241e4f277c20ed37bd9a1f63b70ee5920bd533.jpg",
+        "video": "RwwJfrfWw-w",
+        "date": 1999,
+        "type": "serie"
+    },
+    {
         "title": "naruto",
-        "img": "https://abo-manga.fr/17779-large_default/figurine-naruto-bijutsu-grand-format.jpg",
+        "img": "https://m.media-amazon.com/images/I/91RpwagB7uL._AC_UF1000,1000_QL80_.jpg",
         "video": "pK9s7Vr_9D0",
         "date": 1999,
         "type": "serie"
