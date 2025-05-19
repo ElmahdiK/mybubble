@@ -945,8 +945,36 @@
         "type": "book"
     },
     {
+        "title": "le nidouille",
+        "img": "https://media.electre-ng.com/images/image-id/76b2d568dd4989469476851087a28b4de46c67799fa91b4440470f3618e99a55.jpg",
+        "video": "_RGCJoX2N10",
+        "date": 2003,
+        "type": "serie"
+    },
+    {
+        "title": "rolie polie olie",
+        "img": "https://photos.tf1.fr/1920/1080/cover-showpage-rolie-polie-olie-b46211-4dcf1d-0@3x.jpg",
+        "video": "Qb6CEjZbV1o",
+        "date": 1998,
+        "type": "serie"
+    },
+    {
+        "title": "Atout 5",
+        "img": "https://fr.web.img5.acsta.net/medias/nmedia/18/70/36/90/19097276.jpg",
+        "video": "aok5HYnC-jw",
+        "date": 2007,
+        "type": "serie"
+    },
+    {
+        "title": "Samson",
+        "img": "https://static.fnac-static.com/multimedia/PE/Images/FR/NR/10/df/10/1105680/1507-1/tsp20250329075035/But-Samson.jpg",
+        "video": "-z4OHIycLk4",
+        "date": 2000,
+        "type": "book"
+    },
+    {
         "title": "titeuf",
-        "img": "https://images-na.ssl-images-amazon.com/images/I/81Q5YfdUgsL.jpg",
+        "img": "https://www.glenat.com/sites/default/files/images/livres/couv/9782723469210-T.jpg",
         "video": "HJ5kaPLMSsI",
         "date": 2002,
         "type": "book"
