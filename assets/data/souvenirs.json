@@ -464,7 +464,7 @@
     {
         "title": "sonic the hedgehog",
         "img": "https://fr.web.img4.acsta.net/pictures/15/02/17/10/16/381615.jpg",
-        "video": "RBkui60uIKg",
+        "video": "D97MCqeeox8",
         "date": 1993,
         "type": "serie"
     },
@@ -749,6 +749,13 @@
         "type": "game"
     },
     {
+        "title": "pokémon jaune",
+        "img": "https://image.jeuxvideo.com/images-sm/gb/p/o/pokjgb0f.jpg",
+        "video": "SwfYT1Llm0Y",
+        "date": 1998,
+        "type": "game"
+    },
+    {
         "title": "pokémon rouge",
         "img": "https://auixaysgjr.cloudimg.io/https://cdn.easycash.fr/img/prod/0/0/0/1/8/6/4/5/4/src/2288598-pokemon-red-version-game-boy.jpg?ci_sign=99bd26ede09c4dbc25fb3c66206ab588ce39ef67",
         "video": "OtbLENUnSw0",
@@ -1017,28 +1024,28 @@
     {
         "title": "Lire au CP",
         "img": "https://servimg.eyrolles.com/static/media/3304/9782091573304_internet_h1400.jpg",
-        "video": "HJ5kaPLMSsI",
+        "video": "5JEbc51kgLo",
         "date": 1991,
         "type": "book"
     },
     {
         "title": "J'aime lire",
         "img": "https://pictures.abebooks.com/inventory/30776983760.jpg",
-        "video": "HJ5kaPLMSsI",
+        "video": "5JEbc51kgLo",
         "date": 1997,
         "type": "book"
     },
     {
         "title": "Pomme d'api",
         "img": "https://www.le-livre.fr/photos/R30/R300300494.jpg",
-        "video": "HJ5kaPLMSsI",
+        "video": "5JEbc51kgLo",
         "date": 1992,
         "type": "book"
     },
     {
         "title": "Petit ours brun",
         "img": "https://m.media-amazon.com/images/I/41Lxntcf4jL._AC_UF1000,1000_QL80_.jpg",
-        "video": "HJ5kaPLMSsI",
+        "video": "sDvKBvj0O00",
         "date": 1979,
         "type": "book"
     }
